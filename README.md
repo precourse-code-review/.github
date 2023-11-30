@@ -21,10 +21,9 @@
 
 | 주차 | 문제 |
 | --- | --- |
-| 1주차 | 크리스마스 프로모션 |
-| 2주차 | [자동차 경주](https://github.com/woowacourse-precourse/java-racingcar-6) |
-| 3주차 | [로또](https://github.com/woowacourse-precourse/java-lotto-6) | 박수현, 심석현, 이재현 |
-| 4주차 | 미정 | 박수현, 심석현, 이재현 |
+| 1주차 | [자동차 경주](https://github.com/woowacourse-precourse/java-racingcar-6) |
+| 2주차 | [로또](https://github.com/woowacourse-precourse/java-lotto-6) | 박수현, 심석현, 이재현 |
+| 3주차 | 미정 | 박수현, 심석현, 이재현 |
 
 ### ⏰ 타임어택 (매주 목요일) - 선택
 
