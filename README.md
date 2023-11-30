@@ -17,22 +17,14 @@
 이후 일요일자정까지 피어리뷰를 갖도록 합니다.
 
 ### A조 (박수현, 심석현, 이재현)
-
-| 주차 | 문제 |
-| --- | --- |
-| 1주차 | 크리스마스 프로모션 |
-| 2주차 | 자동차 경주 |
-| 3주차 | 로또 | 박수현, 심석현, 이재현 |
-| 4주차 | 미정 | 박수현, 심석현, 이재현 |
-
 ### B조 (김동언, 희진, 차한솔)
 
 | 주차 | 문제 |
 | --- | --- |
 | 1주차 | 크리스마스 프로모션 |
-| 2주차 | 자동자 경주 |
-| 3주차 | 로또 |
-| 4주차 | 미정 |
+| 2주차 | [자동차 경주](https://github.com/woowacourse-precourse/java-racingcar-6) |
+| 3주차 | [로또](https://github.com/woowacourse-precourse/java-lotto-6) | 박수현, 심석현, 이재현 |
+| 4주차 | 미정 | 박수현, 심석현, 이재현 |
 
 ### ⏰ 타임어택 (매주 목요일) - 선택
 
@@ -40,7 +32,7 @@
 
 | 주차 | 문제 |
 | --- | --- |
-| 1주차 | 자판기 |
-| 2주차 | 지하철 노선도 경로 조회 |
-| 3주차 | 다리 건너기 |
-| 4주차 | 페어 매칭 |
+| 1주차 | [자판기](https://github.com/woowacourse/java-vendingmachine-precourse) |
+| 2주차 | [지하철 노선도 경로 조회](https://github.com/woowacourse/java-subway-path-precourse) |
+| 3주차 | [다리 건너기](https://github.com/bark20/java-bridge) |
+| 4주차 | [페어 매칭](https://github.com/woowacourse/java-pairmatching-precourse) |
